@@ -1,0 +1,20 @@
+{
+  "name": "renewableenergytoken-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.8.3",
+    "create-react-app": "^5.0.1",
+    "react-toastify": "^10.0.5",
+    "truffle": "^5.11.5"
+  }
+}
